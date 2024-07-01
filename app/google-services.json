@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "373184685783",
+    "project_id": "budgetapp-c007c",
+    "storage_bucket": "budgetapp-c007c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373184685783:android:737cff98d09082cf167292",
+        "android_client_info": {
+          "package_name": "eu.ase.ro.seminar4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5QLc5unbga4IPgAlZ6z22YMaI0uwcJoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
